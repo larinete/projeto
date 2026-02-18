@@ -1,4 +1,4 @@
-# Olá, eu sou o Larinete Santana Xavier! 👋
+# Olá, eu sou Larinete Santana Xavier! 👋
 
 ## 😄 Sobre mim
 Estou iniciando minha jornada na tecnologia e focado em aprender:
